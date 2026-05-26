@@ -43,6 +43,12 @@ classDiagram
       Clase: +op4()
 ```
 [Referencia-Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
+## Promts para generar diagramas de clases y secuencia 
+@diagram Genera un Diagrama de clases para el paquete `miPrincipal` 
+@diagram Genera un Diagrama de secuencia para el paquete `miPrincipal`
+
+@explain la programación de este proyecto
+Explica la programación de este proyecto
 
 ## Diagrama de clases UML con draw.io
 El repositorio está configurado para crear Diagramas de clases UML con ```draw.io```. Para usarlo, agrega un archivo con extensión ```.drawio.png```, haz doble clic sobre el mismo y se activará el editor ```draw.io``` incrustado en ```VSCode``` para edición. Asegúrate de agregar las formas UML en el menú de formas del lado izquierdo (opción ```+Más formas```).
